@@ -1,0 +1,16 @@
+User Overview
+Total users: 2
+
+User: admin
+Total tasks assigned: 2
+Percentage of total tasks assigned: 66.67%
+Percentage of completed tasks: 0.00%
+Percentage of incomplete tasks: 100.00%
+Percentage of overdue tasks: 100.00%
+
+User: Test account
+Total tasks assigned: 1
+Percentage of total tasks assigned: 33.33%
+Percentage of completed tasks: 0.00%
+Percentage of incomplete tasks: 100.00%
+Percentage of overdue tasks: 0.00%
